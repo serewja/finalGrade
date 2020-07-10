@@ -3,7 +3,7 @@
 # Jest
 `npm test`
 # Трансляция бабелем
-`npm run tb`
+`npm run build`
 
 # finalGrade
 
