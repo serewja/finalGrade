@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/serewja/template#readme",
   "dependencies": {
-    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "@babel/cli": "^7.10.4",
